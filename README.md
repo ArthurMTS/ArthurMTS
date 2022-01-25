@@ -1,16 +1,16 @@
-### Hi there 👋
+## Olá, me chamo Arthur Silva, bem-vindo ao meu perfil! 👋
 
-<!--
-**ArthurMTS/ArthurMTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho com Front-End
+- 🌱 Estudando mais sobre desenvolvimento web (React) e C#
+- ⚡ Hobbies: 
+  - Violão 🎸
+  - Jogos (Stardew Valley)
+  - Animes
 
-Here are some ideas to get you started:
+##
+### Linguagens que mais uso!<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMTS&layout=compact&theme=dracula" alt="linguagens mais usadas" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/arthur-silva-24736320a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge" />
+</a>
