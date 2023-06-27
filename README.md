@@ -1,11 +1,11 @@
-## Olá, me chamo Arthur Silva, bem-vindo ao meu perfil! 👋
+## Olá mundo, meu nome é Arthur Silva, bem-vindo ao meu perfil! 👋
 
-- 🔭 Atualmente trabalho com Front-End
-- 🌱 Estudando mais sobre desenvolvimento web (React) e C#
+- 🔭 Atualmente minha área é desenvolvimento Front-End
+- 🌱 Estudando mais sobre desenvolvimento web (React, TS, NodeJS) e Python 🐍
 - ⚡ Hobbies: 
   - Violão 🎸
-  - Jogos (Stardew Valley)
-  - Animes
+  - Jogos 🎮
+  - Leitura 📚
 
 ##
 ### Linguagens que mais uso!<br/>
